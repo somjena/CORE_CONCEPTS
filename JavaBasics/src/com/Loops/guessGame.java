@@ -1,4 +1,4 @@
-package com.Switch;
+package com.Loops;
 import java.util.*;
 public class guessGame {
 	         static int score;
